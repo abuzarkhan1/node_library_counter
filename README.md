@@ -10,8 +10,6 @@ Counter Is JavaScript Library For CountingS
 
 `node`
 
-`npm install counter-abuzar`
-
 # Then
 
 ```js
