@@ -5,7 +5,7 @@ Counter Is JavaScript Library For Counting
 # Installation
 
 ```
-npm install counter-abuza
+npm install counter-abuzar
 ```
 
 # Usage
