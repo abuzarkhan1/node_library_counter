@@ -1,6 +1,6 @@
 # Introduction
 
-Counter Is JavaScript Library For CountingS
+Counter Is JavaScript Library For Counting
 
 # Installation
 
