@@ -1,12 +1,12 @@
 {
   "name": "counter-abuzar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"npx rollup -c"
+    "build": "npx rollup -c"
   },
   "author": "Abuzar",
   "license": "ISC",
