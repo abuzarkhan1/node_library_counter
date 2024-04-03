@@ -4,7 +4,9 @@ Counter Is JavaScript Library For Counting
 
 # Installation
 
-`npm install counter-abuzar`
+```
+npm install counter-abuza
+```
 
 # Usage
 
