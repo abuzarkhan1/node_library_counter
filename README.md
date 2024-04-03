@@ -8,7 +8,9 @@ Counter Is JavaScript Library For Counting
 
 # Usage
 
-`node`
+```js
+import { useCounter } from "counter-abuzar"
+```
 
 # Then
 
